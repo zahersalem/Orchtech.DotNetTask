@@ -1,0 +1,9 @@
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Common\bin\Debug\netcoreapp3.1\Orchtech.DotNetTask.Common.deps.json
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Common\bin\Debug\netcoreapp3.1\Orchtech.DotNetTask.Common.dll
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Common\bin\Debug\netcoreapp3.1\Orchtech.DotNetTask.Common.pdb
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Common\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Common.csprojAssemblyReference.cache
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Common\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Common.AssemblyInfoInputs.cache
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Common\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Common.AssemblyInfo.cs
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Common\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Common.csproj.CoreCompileInputs.cache
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Common\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Common.dll
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Common\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Common.pdb

@@ -1,0 +1,4 @@
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.csprojAssemblyReference.cache
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.AssemblyInfoInputs.cache
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.AssemblyInfo.cs
+D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.csproj.CoreCompileInputs.cache
