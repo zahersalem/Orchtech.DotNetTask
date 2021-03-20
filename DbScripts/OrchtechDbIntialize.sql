@@ -20,7 +20,7 @@ CREATE TABLE Student (
         REFERENCES Gender(Id),
 );
 
-CREATE TABLE Class (
+CREATE TABLE Classe (
     Id uniqueIdentifier,
     Name varchar(255),
     Capacity int,
@@ -32,11 +32,11 @@ CREATE TABLE Class (
 
 create Table Enrolment(
    Id uniqueIdentifier,
-   ClassId uniqueIdentifier,
+   ClasseId uniqueIdentifier,
    StudentId uniqueIdentifier,
-	CONSTRAINT PK_class_student PRIMARY KEY (Id),
-	CONSTRAINT FK_Enrolment_Class FOREIGN KEY (ClassId)
-        REFERENCES Class(Id),
+	CONSTRAINT PK_Enrolment PRIMARY KEY (Id),
+	CONSTRAINT FK_Enrolment_Classe FOREIGN KEY (ClasseId)
+        REFERENCES Classe(Id),
 	CONSTRAINT FK_Enrolment_Student FOREIGN KEY (StudentId)
         REFERENCES Student(Id),
 );

@@ -14,7 +14,7 @@ namespace Orchtech.DotNetTask.Domain
 
         #region DbSets
 
-        public DbSet<Class> Classs { get; set; }
+        public DbSet<Classe> Classes { get; set; }
         public DbSet<Enrolment> Enrolments { get; set; }
         public DbSet<Gender> Genders { get; set; }
         public DbSet<Student> Students { get; set; }

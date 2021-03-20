@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchtech.DotNetTask.Common"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchtech.DotNetTask.Domain", "Orchtech.DotNetTask.Domain\Orchtech.DotNetTask.Domain.csproj", "{099A651F-D10B-4F23-B6D4-C40AFE57D473}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchtech.DotNetTask.Web.Api", "Orchtech.DotNetTask.Web.Api\Orchtech.DotNetTask.Web.Api.csproj", "{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{099A651F-D10B-4F23-B6D4-C40AFE57D473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{099A651F-D10B-4F23-B6D4-C40AFE57D473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{099A651F-D10B-4F23-B6D4-C40AFE57D473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -34,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{FB4A2C34-A255-47BD-AB7F-D750C5C7C0C8} = {FF1BDA9E-4415-474B-908D-33FBF0D9DD19}
 		{099A651F-D10B-4F23-B6D4-C40AFE57D473} = {DFEEA975-AF50-4DD6-A1CF-B591449B227D}
+		{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C} = {BD5B6B74-2553-4D9E-80F3-085C8D74F09C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2194F7EB-9DD3-4F21-BFD2-5A6CFDF18E02}
