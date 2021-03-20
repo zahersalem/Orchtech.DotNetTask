@@ -1,8 +1,0 @@
-D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.AssemblyInfoInputs.cache
-D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.AssemblyInfo.cs
-D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.csproj.CoreCompileInputs.cache
-D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\bin\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.deps.json
-D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\bin\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.dll
-D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\bin\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.pdb
-D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.dll
-D:\Orchtech\Orchtech.DotNetTask\Orchtech.DotNetTask\Orchtech.DotNetTask.Domain\obj\Debug\netcoreapp3.1\Orchtech.DotNetTask.Domain.pdb

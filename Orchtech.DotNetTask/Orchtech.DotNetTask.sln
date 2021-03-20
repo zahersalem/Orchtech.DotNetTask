@@ -9,11 +9,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{FF1BDA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{BD5B6B74-2553-4D9E-80F3-085C8D74F09C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchtech.DotNetTask.Common", "Orchtech.DotNetTask.Common\Orchtech.DotNetTask.Common.csproj", "{FB4A2C34-A255-47BD-AB7F-D750C5C7C0C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orchtech.DotNetTask.Common", "Orchtech.DotNetTask.Common\Orchtech.DotNetTask.Common.csproj", "{FB4A2C34-A255-47BD-AB7F-D750C5C7C0C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchtech.DotNetTask.Domain", "Orchtech.DotNetTask.Domain\Orchtech.DotNetTask.Domain.csproj", "{099A651F-D10B-4F23-B6D4-C40AFE57D473}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orchtech.DotNetTask.Domain", "Orchtech.DotNetTask.Domain\Orchtech.DotNetTask.Domain.csproj", "{099A651F-D10B-4F23-B6D4-C40AFE57D473}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchtech.DotNetTask.Web.Api", "Orchtech.DotNetTask.Web.Api\Orchtech.DotNetTask.Web.Api.csproj", "{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orchtech.DotNetTask.Web.Api", "Orchtech.DotNetTask.Web.Api\Orchtech.DotNetTask.Web.Api.csproj", "{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchtech.DotNetTask.Web.Client", "Orchtech.DotNetTask.Web.Client\Orchtech.DotNetTask.Web.Client.csproj", "{5DBD0768-D222-48F5-BE21-150F22CC570D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBD0768-D222-48F5-BE21-150F22CC570D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBD0768-D222-48F5-BE21-150F22CC570D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBD0768-D222-48F5-BE21-150F22CC570D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBD0768-D222-48F5-BE21-150F22CC570D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,6 +47,7 @@ Global
 		{FB4A2C34-A255-47BD-AB7F-D750C5C7C0C8} = {FF1BDA9E-4415-474B-908D-33FBF0D9DD19}
 		{099A651F-D10B-4F23-B6D4-C40AFE57D473} = {DFEEA975-AF50-4DD6-A1CF-B591449B227D}
 		{D9E3B99A-662A-4C5B-B2CF-6C1500A18B8C} = {BD5B6B74-2553-4D9E-80F3-085C8D74F09C}
+		{5DBD0768-D222-48F5-BE21-150F22CC570D} = {BD5B6B74-2553-4D9E-80F3-085C8D74F09C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2194F7EB-9DD3-4F21-BFD2-5A6CFDF18E02}
